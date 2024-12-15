@@ -1,0 +1,11 @@
+accounts:
+  '715913442':
+    auto_login: false
+    create_time: 1714803664
+    name: 布纪岛置入后门
+    sauth: '{"sauth_json":"{\"gameid\":\"x19\",\"login_channel\":\"netease\",\"app_channel\":\"netease\",\"platform\":\"pc\",\"sdkuid\":\"aebgi2ewez3uxxig\",\"sessionid\":\"1-eyJzIjogImhyNnE4OTJhaTFjZWowMHBiZWg2M2FwZXI2b3dlOXJmIiwgIm9kaSI6ICJhbWF3aTJhYWFxaDdkNnZ2LWQiLCAic2kiOiAiMTY1MTNiNjMyN2YyZDJhZmNjNTViOTJhNWIxOTlhMjkzYzk2YTQ2YiIsICJ1IjogImFlYmdpMmV3ZXozdXh4aWciLCAidCI6IDIsICJnX2kiOiAiYWVjZnJ4b2R5cWFhYWFqcCJ9\",\"sdk_version\":\"3.4.0\",\"udid\":\"424e8625b1f24327a2360df18dc6fbaf\",\"deviceid\":\"amawi2aaaqh7d6vv-d\",\"aim_info\":\"{\\\"aim\\\":\\\"100.100.100.100\\\",\\\"country\\\":\\\"CN\\\",\\\"tz\\\":\\\"+0800\\\",\\\"tzid\\\":\\\"\\\"}\"}"}'
+  '716457034':
+    auto_login: false
+    create_time: 1714803595
+    name: json大神_2
+    sauth: '{"sauth_json":"{\"gameid\":\"x19\",\"login_channel\":\"netease\",\"app_channel\":\"netease\",\"platform\":\"pc\",\"sdkuid\":\"aebgi6vgkj33aies\",\"sessionid\":\"1-eyJzIjogInZwMDJjbzY0Z2U2MjB6ZTl6OXg5dDRraDhsend2ZTJkIiwgIm9kaSI6ICJhbWF3aTZxYWFxbHgzZ3BwLWQiLCAic2kiOiAiOTk5YTZjZTU3YjViNmM4N2QxNmFjZWZlOTVmZTc3MTFhZTMwMzY3ZSIsICJ1IjogImFlYmdpNnZna2ozM2FpZXMiLCAidCI6IDIsICJnX2kiOiAiYWVjZnJ4b2R5cWFhYWFqcCJ9\",\"sdk_version\":\"3.4.0\",\"udid\":\"dd9b9a38a6c6452ab3b802bbcdc7d988\",\"deviceid\":\"amawi6qaaqlx3gpp-d\",\"aim_info\":\"{\\\"aim\\\":\\\"100.100.100.100\\\",\\\"country\\\":\\\"CN\\\",\\\"tz\\\":\\\"+0800\\\",\\\"tzid\\\":\\\"\\\"}\"}"}'
